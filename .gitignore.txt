@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+FaceDB/*.jpg
+FaceDB/*.npy
+config.py
